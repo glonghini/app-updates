@@ -1,6 +1,24 @@
 {
   "linux": {
-  "download": "https://github.com/glonghini/andromeda/releases/download/1.0.0/Vorocell-1.0.0.AppImage",
-  "version": "1.0.0"
+    "aplication": {
+      "download": "https://github.com/glonghini/andromeda/releases/download/1.0.0/Vorocell-1.0.0.AppImage",
+      "version": "1.0.0"
+    },
+    "updater": {
+      "download": "",
+      "version": ""
+    },
+    "autoClassification": {
+      "download": "",
+      "version": ""
+    },
+    "imageProcess": {
+      "download": "",
+      "version": ""
+    },
+    "keyboard": {
+      "download": "",
+      "version": ""
+    }
   }
 }
