@@ -1,4 +1,5 @@
 {
+  "urlToCheck": "https://raw.githubusercontent.com/glonghini/app-updates/main/andromeda.json",
   "linux": {
     "aplication": {
       "download": "https://github.com/glonghini/andromeda/releases/download/1.0.0/Vorocell-1.0.0.AppImage",
